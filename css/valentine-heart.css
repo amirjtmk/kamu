@@ -15,7 +15,7 @@
 .ico2:before,
 .ico2:after{
   position: absolute;
-  top: 40px;
+  top: 0px;
   left: 40px;
 
 }
