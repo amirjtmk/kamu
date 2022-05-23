@@ -1,8 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Pacifico);
 .bgoverlay{
   position: absolute;
-
 }
+
 
 .ico{
   display: block;
@@ -16,9 +16,8 @@
 .ico2:before,
 .ico2:after{
   position: absolute;
-  top: 40px;
-  left: 40px;
-  bottom: 10px;
+  top: 10px;
+  left: 20px;
 
 }
 .ico:before,
