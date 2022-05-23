@@ -1,7 +1,14 @@
 @import url(https://fonts.googleapis.com/css?family=Pacifico);
 .bgoverlay{
   position: relative;
-  
+  top: 20px;
+  left: 100px;
+
+
+    
+
+    
+
 }
 
 
@@ -9,7 +16,7 @@
   display: block;
 }
 .open .ico{
-  animation: open 4s;
+  animation: openwidth: 30%; 4s;
   transform: scale(10);
 }
 
